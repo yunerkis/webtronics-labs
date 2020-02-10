@@ -92,7 +92,15 @@
               "tsconfig.spec.json",
               "e2e/tsconfig.json"
             ],
-            "exclude": ["**/node_modules/**"]
+            "exclude": [
+              "**/node_modules/**",
+              "**/src/polyfills.ts",
+              "**/src/main.ts",
+              "src/test.ts",
+              "e2e/src/app.po.ts",
+              "**/*.spec.ts",
+              "**/*.e2e-spec.ts"
+            ]
           }
         },
         "e2e": {
