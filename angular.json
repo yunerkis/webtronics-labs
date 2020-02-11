@@ -117,5 +117,8 @@
       }
     }
   },
-  "defaultProject": "webtronics"
+  "defaultProject": "webtronics",
+  "cli": {
+    "analytics": "69a7b256-7185-4aff-a068-a7fbeb4ca672"
+  }
 }
