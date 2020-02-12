@@ -1,8 +1,0 @@
-{
-  "plugins": ["stylelint-scss"],
-  "rules": {
-    "indentation": "tab",
-    "scss/dollar-variable-pattern": "^foo",
-    "scss/selector-no-redundant-nesting-selector": true
-  }
-}
