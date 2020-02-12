@@ -99,12 +99,5 @@
     "searchemployee"
   ],
   "ignoreRegExpList": ["^import [^,]+ from |^export | implements"],
-  "ignorePaths": [
-    "**/assets/**",
-    "**.json",
-    "**.scss",
-    "**.html",
-    "polyfills.ts",
-    "favicon.ico"
-  ]
+  "ignorePaths": ["**/assets/**", "**.json", "polyfills.ts", "favicon.ico"]
 }
